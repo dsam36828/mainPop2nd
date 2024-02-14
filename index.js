@@ -17,6 +17,10 @@ const allowedOrigins = [
   "http://halcyoninjp.live",
   "https://halcyoninjp.live/",
   "http://halcyoninjp.live/",
+  "https://hotnihonnews.today",
+  "https://hotnihonnews.today/"
+  "http://hotnihonnews.today",
+  "http://hotnihonnews.today/",
 ];
 
 // List of allowed referrers
@@ -29,6 +33,10 @@ const allowedReferrers = [
   "http://halcyoninjp.live",
   "https://halcyoninjp.live/",
   "http://halcyoninjp.live/",
+  "https://hotnihonnews.today",
+  "https://hotnihonnews.today/"
+  "http://hotnihonnews.today",
+  "http://hotnihonnews.today/",
 ];
 
 // CORS configuration
