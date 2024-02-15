@@ -21,6 +21,10 @@ const allowedOrigins = [
   "https://hotnihonnews.today/",
   "http://hotnihonnews.today",
   "http://hotnihonnews.today/",
+  "https://ufitmerchandise.in",
+  "http://ufitmerchandise.in",
+  "https://ufitmerchandise.in/",
+  "http://ufitmerchandise.in/",
 ];
 
 // List of allowed referrers
@@ -37,6 +41,10 @@ const allowedReferrers = [
   "https://hotnihonnews.today/",
   "http://hotnihonnews.today",
   "http://hotnihonnews.today/",
+  "https://ufitmerchandise.in",
+  "http://ufitmerchandise.in",
+  "https://ufitmerchandise.in/",
+  "http://ufitmerchandise.in/",
 ];
 
 // CORS configuration
