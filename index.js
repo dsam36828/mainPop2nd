@@ -18,7 +18,7 @@ const allowedOrigins = [
   "https://halcyoninjp.live/",
   "http://halcyoninjp.live/",
   "https://hotnihonnews.today",
-  "https://hotnihonnews.today/"
+  "https://hotnihonnews.today/",
   "http://hotnihonnews.today",
   "http://hotnihonnews.today/",
 ];
@@ -34,7 +34,7 @@ const allowedReferrers = [
   "https://halcyoninjp.live/",
   "http://halcyoninjp.live/",
   "https://hotnihonnews.today",
-  "https://hotnihonnews.today/"
+  "https://hotnihonnews.today/",
   "http://hotnihonnews.today",
   "http://hotnihonnews.today/",
 ];
