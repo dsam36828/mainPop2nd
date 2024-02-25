@@ -11,6 +11,7 @@ app.use(bodyParser.json());
 const allowedOrigins = [
   "https://musubijp.com",
   "http://musubijp.com",
+  "https://cookie-collection-second.onrender.com",
   "http://127.0.0.1:5501",
   "http://127.0.0.1:5500",
   "https://halcyoninjp.live",
@@ -35,6 +36,7 @@ const allowedOrigins = [
 const allowedReferrers = [
   "https://musubijp.com",
   "http://musubijp.com",
+  "https://cookie-collection-second.onrender.com",
   "http://127.0.0.1:5501",
   "http://127.0.0.1:5500",
   "https://halcyoninjp.live",
