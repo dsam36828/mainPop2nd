@@ -30,6 +30,10 @@ const allowedOrigins = [
   "https://nihonfuku.shop/",
   "http://nihonfuku.shop",
   "http://nihonfuku.shop/",
+  "https://suntorywellness.beauty",
+  "https://suntorywellness.beauty/",
+  "http://suntorywellness.beauty",
+  "http://suntorywellness.beauty/",
 ];
 
 // List of allowed referrers
@@ -55,6 +59,10 @@ const allowedReferrers = [
   "https://nihonfuku.shop/",
   "http://nihonfuku.shop",
   "http://nihonfuku.shop/",
+  "https://suntorywellness.beauty",
+  "https://suntorywellness.beauty/",
+  "http://suntorywellness.beauty",
+  "http://suntorywellness.beauty/",
 ];
 
 // CORS configuration
