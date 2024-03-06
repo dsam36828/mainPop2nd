@@ -9,42 +9,34 @@ app.use(bodyParser.json());
 
 // List of allowed frontend origins for CORS
 const allowedOrigins = [
-  "https://musubijp.com",
-  "http://musubijp.com",
-  "https://musubijp.com/",
-  "http://musubijp.com/",
   "https://ufitmerchandise.in",
   "http://ufitmerchandise.in",
   "https://ufitmerchandise.in/",
   "http://ufitmerchandise.in/",
-  "https://suntorywellness.beauty",
-  "https://suntorywellness.beauty/",
-  "http://suntorywellness.beauty",
-  "http://suntorywellness.beauty/",
   "https://eternalswater.com",
   "http://eternalswater.com",
   "https://eternalswater.com/",
   "http://eternalswater.com/",
+  "https://akasakamomonoki.live",
+  "http://akasakamomonoki.live",
+  "https://akasakamomonoki.live/",
+  "http://akasakamomonoki.live/",
 ];
 
 // List of allowed referrers
 const allowedReferrers = [
-  "https://musubijp.com",
-  "http://musubijp.com",
-  "https://musubijp.com/",
-  "http://musubijp.com/",
   "https://ufitmerchandise.in",
   "http://ufitmerchandise.in",
   "https://ufitmerchandise.in/",
   "http://ufitmerchandise.in/",
-  "https://suntorywellness.beauty",
-  "https://suntorywellness.beauty/",
-  "http://suntorywellness.beauty",
-  "http://suntorywellness.beauty/",
   "https://eternalswater.com",
   "http://eternalswater.com",
   "https://eternalswater.com/",
   "http://eternalswater.com/",
+  "https://akasakamomonoki.live",
+  "http://akasakamomonoki.live",
+  "https://akasakamomonoki.live/",
+  "http://akasakamomonoki.live/",
 ];
 
 // CORS configuration
