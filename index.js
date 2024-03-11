@@ -21,6 +21,15 @@ const allowedOrigins = [
   "http://akasakamomonoki.live",
   "https://akasakamomonoki.live/",
   "http://akasakamomonoki.live/",
+  "http://akasakamomonoki.live",
+  "https://wayneonsen.life",
+  "http://wayneonsen.life",
+  "https://wayneonsen.life/",
+  "http://wayneonsen.life/",
+  "https://yummyjuices.shop",
+  "http://yummyjuices.shop",
+  "https://yummyjuices.shop/",
+  "http://yummyjuices.shop/",
 ];
 
 // List of allowed referrers
@@ -37,6 +46,14 @@ const allowedReferrers = [
   "http://akasakamomonoki.live",
   "https://akasakamomonoki.live/",
   "http://akasakamomonoki.live/",
+  "https://wayneonsen.life",
+  "http://wayneonsen.life",
+  "https://wayneonsen.life/",
+  "http://wayneonsen.life/",
+  "https://yummyjuices.shop",
+  "http://yummyjuices.shop",
+  "https://yummyjuices.shop/",
+  "http://yummyjuices.shop/",
 ];
 
 // CORS configuration
