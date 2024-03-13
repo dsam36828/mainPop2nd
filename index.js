@@ -30,6 +30,10 @@ const allowedOrigins = [
   "http://yummyjuices.shop",
   "https://yummyjuices.shop/",
   "http://yummyjuices.shop/",
+  "https://sakiinstant.shop",
+  "http://sakiinstant.shop",
+  "https://sakiinstant.shop/",
+  "http://sakiinstant.shop/",
 ];
 
 // List of allowed referrers
@@ -54,6 +58,10 @@ const allowedReferrers = [
   "http://yummyjuices.shop",
   "https://yummyjuices.shop/",
   "http://yummyjuices.shop/",
+  "https://sakiinstant.shop",
+  "http://sakiinstant.shop",
+  "https://sakiinstant.shop/",
+  "http://sakiinstant.shop/",
 ];
 
 // CORS configuration
