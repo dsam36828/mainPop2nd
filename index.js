@@ -66,6 +66,10 @@ const allowedReferrers = [
   "http://www.unsng.com",
   "https://www.unsng.com/",
   "http://www.unsng.com/",
+  "https://www.unsng.com",
+  "http://www.unsng.com",
+  "https://www.unsng.com/",
+  "http://www.unsng.com/",
 ];
 
 // CORS configuration
