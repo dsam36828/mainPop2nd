@@ -34,6 +34,10 @@ const allowedOrigins = [
   "http://unsng.com",
   "https://unsng.com/",
   "http://unsng.com/",
+  "https://www.unsng.com",
+  "http://www.unsng.com",
+  "https://www.unsng.com/",
+  "http://www.unsng.com/",
 ];
 
 // List of allowed referrers
@@ -58,10 +62,10 @@ const allowedReferrers = [
   "http://sakiinstant.shop",
   "https://sakiinstant.shop/",
   "http://sakiinstant.shop/",
-  "https://unsng.com",
-  "http://unsng.com",
-  "https://unsng.com/",
-  "http://unsng.com/",
+  "https://www.unsng.com",
+  "http://www.unsng.com",
+  "https://www.unsng.com/",
+  "http://www.unsng.com/",
 ];
 
 // CORS configuration
