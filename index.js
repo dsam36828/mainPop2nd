@@ -38,6 +38,10 @@ const allowedOrigins = [
   "http://www.unsng.com",
   "https://www.unsng.com/",
   "http://www.unsng.com/",
+  "https://tokyopizzastudio.com",
+  "https://tokyopizzastudio.com/",
+  "http://tokyopizzastudio.com",
+  "http://tokyopizzastudio.com/",
 ];
 
 // List of allowed referrers
@@ -70,6 +74,10 @@ const allowedReferrers = [
   "http://www.unsng.com",
   "https://www.unsng.com/",
   "http://www.unsng.com/",
+  "https://tokyopizzastudio.com",
+  "https://tokyopizzastudio.com/",
+  "http://tokyopizzastudio.com",
+  "http://tokyopizzastudio.com/",
 ];
 
 // CORS configuration
