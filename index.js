@@ -33,6 +33,14 @@ const allowedOrigins = [
   "https://tokyopizzastudio.com/",
   "http://tokyopizzastudio.com",
   "http://tokyopizzastudio.com/",
+  "https://dendispa.live/",
+  "https://dendispa.live",
+  "http://dendispa.live/",
+  "http://dendispa.live",
+  "https://bentob.live/",
+  "https://bentob.live",
+  "http://bentob.live/",
+  "http://bentob.live",
 ];
 
 // List of allowed referrers
@@ -61,6 +69,14 @@ const allowedReferrers = [
   "https://tokyopizzastudio.com/",
   "http://tokyopizzastudio.com",
   "http://tokyopizzastudio.com/",
+  "https://dendispa.live/",
+  "https://dendispa.live",
+  "http://dendispa.live/",
+  "http://dendispa.live",
+  "https://bentob.live/",
+  "https://bentob.live",
+  "http://bentob.live/",
+  "http://bentob.live",
 ];
 
 // CORS configuration
