@@ -57,6 +57,10 @@ const allowedOrigins = [
   "http://www.astroinsight.net/",
   "https://astroinsight.net/",
   "http://astroinsight.net/",
+  "https://thebuddhalife.com",
+  "http://thebuddhalife.com",
+  "https://thebuddhalife.com/",
+  "http://thebuddhalife.com/",
 ];
 
 // List of allowed referrers
@@ -109,6 +113,10 @@ const allowedReferrers = [
   "http://www.astroinsight.net/",
   "https://astroinsight.net/",
   "http://astroinsight.net/",
+  "https://thebuddhalife.com",
+  "http://thebuddhalife.com",
+  "https://thebuddhalife.com/",
+  "http://thebuddhalife.com/",
 ];
 
 // CORS configuration
