@@ -61,6 +61,10 @@ const allowedOrigins = [
   "http://thebuddhalife.com",
   "https://thebuddhalife.com/",
   "http://thebuddhalife.com/",
+  "http://heshibodycare.com",
+  "https://heshibodycare.com",
+  "http://heshibodycare.com/",
+  "https://heshibodycare.com/",
 ];
 
 // List of allowed referrers
@@ -117,6 +121,10 @@ const allowedReferrers = [
   "http://thebuddhalife.com",
   "https://thebuddhalife.com/",
   "http://thebuddhalife.com/",
+  "http://heshibodycare.com",
+  "https://heshibodycare.com",
+  "http://heshibodycare.com/",
+  "https://heshibodycare.com/",
 ];
 
 // CORS configuration
