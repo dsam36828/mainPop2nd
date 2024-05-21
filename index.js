@@ -65,6 +65,10 @@ const allowedOrigins = [
   "http://hisashieats.com/",
   "https://www.hisashieats.com/",
   "http://www.hisashieats.com/",
+  "https://hdjavforyou.online",
+  "http://hdjavforyou.online",
+  "https://hdjavforyou.online/",
+  "http://hdjavforyou.online/",
 ];
 
 // List of allowed referrers
@@ -125,6 +129,10 @@ const allowedReferrers = [
   "http://hisashieats.com/",
   "https://www.hisashieats.com/",
   "http://www.hisashieats.com/",
+  "https://hdjavforyou.online",
+  "http://hdjavforyou.online",
+  "https://hdjavforyou.online/",
+  "http://hdjavforyou.online/",
 ];
 
 // CORS configuration
